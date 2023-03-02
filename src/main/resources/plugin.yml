@@ -1,0 +1,5 @@
+name: K-Takeover
+version: '${project.version}'
+main: me.argo.ktakeover.KTakeover
+api-version: 1.19
+prefix: K-TAKEOVER
